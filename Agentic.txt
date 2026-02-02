@@ -1,0 +1,66 @@
+								Agentic AI
+Agentic Let us split this word agent, its a kind of agent which works independently and ic refer to the characterist'ic' this refers to the behavior or the feature that the agent does while making decisions, thinking ,taking action, working autonomously 
+
+Definition: It is of the type of ai system that is designed to make decision, work with less human supervision, and solves complex challenges too, by using its internal models, learning algorithms, and decision-making processes. It is build in such a way that it can work autonomously within an environment to achieve specific goals 
+Ex: 1)It is just like you sister  who works much smarter then you and she does not want anyone while she is working 
+    2)Chitti Stared developing emotional attachments with the girl by making his own decisions 
+
+Applications:
+Netflix:
+Recommendation System: Netflix uses agentic AI to recommend movies and shows. The system analyzes user data, viewing history, and preferences to suggest content tailored to individual tastes.
+Amazon:
+Personalized Shopping Experience: Amazon's AI-driven recommendation engine suggests products based on users' browsing and purchasing history, optimizing the shopping experience.
+Spotify:
+Music Recommendations: Spotify uses AI to create personalized playlists like "Discover Weekly" and "Daily Mix," analyzing user listening habits to recommend new music.
+IBM Watson:
+Healthcare Diagnostics: IBM Watson Health uses AI to analyze medical data, assist in diagnosing diseases, and recommend personalized treatment plans.
+
+Key Characteristics and Components of Agentic AI 
+
+1) Autonomous and goal oriented: It is designed/ programmed to operate independently in such a way that it can take decision on its own without human supervision.
+2) Adaptive learning and Complex problem solving: They learn from experiences and adapting the behavior over time to solve complex problems  
+3) Environment interaction and Correct decision: It will interact with environment and collects the data form sensor's, camera, and other input devices and process them to make correct decision                   
+4)Information Processing: It uses algorithm, neural  network, pattern recognizing (anup) system for the analyzing and processing the data and also use the framework like rule based sys (rabs) and ml models to interpret data and guide its actions  
+5)Action Execution: It is based on the mechanism robotic and software commands. agentic ai process the work autonomously based on info and goal they programed to achieve
+
+Difference Between Agentic and Traditional  ai
+
+Agentic AI: It work autonomously without the human intervention and interacts with the environment, collects the data, adapt to achieve goals
+Traditional: It works on the predefined instructions and rules it requires the human for making the decisions 
+Agentic Ai:  Easy to work on complex data as it uses adaptive learning to process complex data
+Traditional: Rule based or rely on pretrained data, less capacity to process complex data
+Agentic Ai: Capability of find the errors and correcting them autonomously and learn form the mistakes
+Traditional: Less capability of finding the error required human to correct them
+Agentic Ai: It is easy to scale as it is based on cloud computing and has large database to improve processing the data. 
+Traditional: It is difficult to scale as it is based on predefined rules and manual updates
+Agentic Ai:  It is goal oriented and capable of solving complex problems by adaptive learning  
+Traditional: Focus on completing specific task without considering broder objective
+
+Difference Between Agentic and Generative ai
+Agentic Ai: It is used to do the specific task autonomously 
+Generative Ai: It is used to generate text images and so on
+Agentic Ai: It main purpose is make decision and task execution
+Generative Ai: it main purpose is to content creation and generation
+Agentic Ai: It can take actions based on inputs and goals
+Generative Ai: IT can create novel based on trained data
+Agentic Ai: Efficiency and accurate task completion
+Generative Ai: Creatively and diversative generation
+Agentic Ai: ex Automatic/self driving car,  
+Generative Ai: text generation and image generation
+Agentic AI: Usually interact with physical word
+Generative : Usually interacts with digital word
+Agentic Ai: it is trained on task specifying data
+Generative Ai: It is trained on large dataset with existing data
+Agentic AI: automatic costumer care, Voice assistance, Robotics
+Generative Ai: Art, entertainment, content creation, language translation
+
+Types of ai 
+1) Simple reflex agent: It responds to a specific operation with the pre defined actions
+2) Model based reflex agent: It include internal based models of the word and use it to make decision based on the current and past data ex self driving car which use the map and sensors to drive the car
+3)Goal based agent: its main aim is to achieve the goal provided By considering the future outcomes by the present actions 
+ex chess game the ai will thing the future moves before playing
+4) Utility based agent: It also focuses more on maximizes the performance based on multi factors to provide the maximum utility
+ex recommendation system which provide the type of movies you want to watch that maximizes user  satisfaction
+5) Learning agent : This ai agent will develop there performance by learning over time based on its experience and adapt there behavior accordingly
+ex a spam mails dictions which will  get better over time by learning the pattern of them 
+

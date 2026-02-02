@@ -1,0 +1,1101 @@
+GoodSpace AI Is Hiring: Data Analyst
+
+Professional Summary
+Entry-level Data Analyst with 0–1 year of hands-on experience turning operational telemetry (metrics, logs,
+traces) into actionable insights and building dashboards that improve reliability and decision-making. Strong
+foundation in Excel/Google Sheets, SQL (SELECT/JOIN/Aggregation), and Python (basics);
+experienced with New Relic dashboards, alerting, and incident analytics. Comfortable collaborating with
+product/engineering and business stakeholders, documenting metrics and definitions, and communicating
+findings to technical and non-technical audiences. Interested in experimentation concepts (funnels, cohorts,
+retention) and supporting AI/ML features with data preparation and evaluation.
+Technical Skills
+Data & Analytics: SQL , Excel/Google Sheets, Data cleaning & validation
+Dashboards & BI: New Relic Dashboards/Alerts; Basic visualization in Excel; Familiarity with Power BI
+Experimentation Concepts: Funnels, cohorts, retention, A/B testing (foundational understanding)
+Programming: Python (pandas, matplotlib basics); Java (fundamentals)
+Data & Ops Tooling: Jira; Git, GitHub Cloud: AWS, Azure
+Web: HTML, CSS, JavaScript
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree India
+– Transformed production telemetry (metrics, logs, traces) into insights and weekly reports to improve reliability
+and reduce incident recurrence
+– Built and maintained New Relic dashboards to track latency, error rates, uptime, throughput, and alert performance
+for eCommerce/SFCC services
+– Performed data cleaning/validation on monitoring datasets; investigated anomalies and correlated signals across
+applications and APIs
+– Tuned alert thresholds based on historical patterns to reduce noise and improve signal-to-noise ratio for on-call
+responders
+– Used ServiceNow and Jira for incident tracking, escalations, and stakeholder communication
+Software Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Developed and maintained web features (HTML/CSS/JS) and contributed to basic backend logic
+– Assisted with testing, bug analysis, and performance improvements; documented changes and tracked tasks
+– Gained exposure to deployment workflows and monitoring fundamentals
+Projects
+Product Funnel & Cohort Analysis (Self-Initiated)
+Analytics Project
+– Simulated user event data and executed SQL queries to compute funnel conversion (browse → apply → submit) and
+retention cohorts
+– Built Excel/Sheets dashboards (pivots, charts) to visualize drop-offs, cohort retention, and segment performance;
+documented metric definitions
+– Outlined an A/B testing approach (hypothesis, metrics, sample sizing at a high level) to evaluate onboarding flow
+improvements
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Careers | MHTECHIN
+
+
+Technical Skills
+Data Analysis: SQL (joins, aggregations), Python (pandas, NumPy), Excel (PivotTables, charts)
+Visualization: Power BI, Tableau
+Data Management: Data cleaning, preprocessing, transformation, validation
+Other: Documentation, KPI tracking, statistical methods, A/B testing basics
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree Remote
+– Collected and validated operational datasets from multiple sources ensuring accuracy and completeness
+– Performed data analysis to identify trends and correlations; created actionable insights for stakeholders
+– Built dashboards and automated reports using BI tools and Excel to track KPIs and improve decision-making
+– Collaborated with cross-functional teams to define data requirements and ensure data integrity
+– Documented processes and methodologies for transparency and reproducibility
+Software Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions Remote
+– Assisted in data preparation and validation for web applications; supported reporting and visualization tasks
+– Maintained documentation and collaborated with QA teams for data-driven workflows
+Projects
+Business Performance Dashboard (Power BI)
+Self-Initiated Project
+– Developed interactive dashboards to visualize KPIs and trends using Power BI and Excel
+– Integrated multiple datasets and applied data cleaning and transformation techniques for accurate reporting
+Data Cleaning and Analysis Pipeline (Python)
+Individual Project
+– Built a Python pipeline for cleaning, validating, and transforming raw datasets into structured formats
+– Performed exploratory data analysis and generated visualizations using matplotlib and seaborn
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Data Analyst
+House of Edtech
+
+Technical Skills
+Data Analysis: Excel, Google Sheets (Formulas, Pivot Tables), Python (Pandas, NumPy)
+Database: Basic SQL
+Visualization: Power BI, Tableau (Basic)
+Reporting: Data Cleaning, Trend Analysis, Business Metrics
+Tools: Jupyter Notebook, VS Code, Git, Jira
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree India
+– Analyzed operational data and created Excel-based reports to track system performance and incident trends.
+– Automated repetitive reporting tasks using Python scripts, reducing manual effort by 30%.
+– Collaborated with cross-functional teams to provide data-driven insights for process improvements.
+Software Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Worked on data extraction and cleaning for internal dashboards using Python and Excel.
+– Prepared weekly performance reports for project tracking and resource allocation.
+Projects
+Sales Performance Dashboard
+Personal Project
+– Developed an Excel dashboard with pivot tables and charts to visualize sales trends and KPIs.
+– Implemented conditional formatting and automated data refresh for real-time insights.
+Customer Engagement Analysis
+Academic Project
+– Analyzed customer behavior data using Python (Pandas) and generated actionable insights.
+– Created visualizations in Power BI to present engagement metrics to stakeholders
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+
+Jobgether 
+
+
+Technical Skills
+Automation: Power Apps, Power Automate
+Data Management: SharePoint, Data Governance, Foundry
+Analytics: SQL, Python (Pandas), R
+Visualization: Power BI, Tableau
+Tools: Excel, Google Sheets, Jupyter Notebook, Git
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree, India
+– Maintained and enhanced Power Apps tools to improve functionality and user experience.
+– Automated workflows using Power Automate, reducing manual effort by 40%.
+– Managed SharePoint sites and ensured compliance with data governance standards.
+– Developed dashboards and reports for KPIs using Power BI and SQL.
+Software Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions, India
+– Created automated solutions using Power Apps and Power Automate for internal processes.
+– Supported SharePoint site development and data validation tasks.
+Projects
+Power Apps Workflow Automation
+Designed and deployed Power Apps solutions integrated with Power Automate for process optimization.
+Implemented approval workflows and notifications to streamline operations.
+SharePoint Data Management Dashboard
+Developed SharePoint-based dashboard for equipment data tracking and KPI reporting. Ensured compliance
+with data governance and security standards.
+Education
+KLE’s RLSI College of BCA, Belgaum, Karnataka 2021 – 2024
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Remote Monitoring Specialist
+Hiab · Ellesmere, England, United Kingdom (On-site)
+
+Technical Skills
+Monitoring Tools: Microsoft SCOM, OpsRamp, Datadog, Zenoss
+Diagnostics: Remote alert analysis, KPI tracking, error troubleshooting
+Data Analysis: SQL basics, Excel (Pivot Tables), KPI dashboards
+Technical Knowledge: Mechanical/electrical schematics interpretation, system performance analysis
+Collaboration Tools: Jira, ServiceNow, MS Teams
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree, India
+– Monitored infrastructure alerts and performed first-level diagnostics to ensure system uptime.
+– Collaborated with technical teams to resolve incidents and optimize monitoring thresholds.
+– Maintained knowledge base for recurring issues and contributed to process improvements.
+– Generated KPI reports for system performance and escalated critical alerts to field engineers.
+Software Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions, India
+– Assisted in remote monitoring setup for client systems and validated alert workflows.
+– Supported data analysis for predictive maintenance and improved error resolution timelines.
+Projects
+Remote Equipment Monitoring Dashboard
+Developed a dashboard to monitor alerts and KPIs for industrial equipment. Implemented escalation workflows
+and provided actionable insights to improve uptime.
+Predictive Maintenance Analysis
+Analyzed historical alert data to identify patterns and collaborated with data science team to enhance
+predictive algorithms for proactive maintenance.
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Aurify Labs
+Share
+Show more options
+Research Assistant
+
+
+Technical Skills
+Research Tools: Google Scholar, Market Research Platforms
+Data Analysis: Excel, Google Sheets (Pivot Tables, Formulas), SQL Basics
+Reporting: Data Summarization, Presentation Preparation
+Documentation: Research Database Management, Knowledge Base Creation
+Collaboration Tools: MS Teams, Jira, Confluence
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree, India
+– Conducted research and analysis on system performance metrics to support optimization strategies.
+– Compiled and summarized technical data into clear reports for internal teams.
+– Maintained documentation and knowledge base for recurring issues and solutions.
+– Collaborated with cross-functional teams to provide actionable insights for process improvements.
+Software Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions, India
+– Assisted in gathering and organizing technical information for project documentation.
+– Supported analysis of application performance and prepared reports for senior engineers.
+Projects
+Market Research and Data Analysis Report
+Compiled and analyzed data from multiple sources to identify trends and prepare actionable insights for
+strategic decisions.
+Research Database Development
+Created and maintained a structured research database for storing and retrieving project-related information
+efficiently.
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Canonical
+
+
+
+anguages: Python, SQL
+Frameworks: Flask, Django, Django REST Framework
+APIs: RESTful design, public-facing API development, OpenAPI/Swagger
+Databases/ORM: PostgreSQL, MySQL, SQLAlchemy, Django ORM
+Platform: Ubuntu/Linux (dev & deployment), bash scripting
+Quality: Unit/Integration testing (PyTest), coverage, linting (flake8/black), code reviews
+DevOps/CI: Git/GitHub, GitHub Actions, Docker, basic release coordination
+Monitoring/Observability: Logging, metrics; exposure to SCOM, OpsRamp, Datadog (for ops
+collaboration)
+Collaboration: Agile/Scrum, Jira, Confluence, MS Teams
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree, India
+– Built and maintained internal Python utilities and services to automate operational workflows and
+telemetry collection on Ubuntu-based hosts.
+– Implemented and validated REST endpoints (Flask/Django) for configuration, health checks, and
+reporting; documented APIs with Swagger.
+– Wrote unit/integration tests using PyTest; improved test coverage and adopted linting (flake8/black) to
+raise code quality.
+– Performed code reviews and small architectural refactors to modernize existing code paths; participated in
+release coordination cycles.
+– Collaborated with ops/devops colleagues on containerization (Docker) and CI pipelines (GitHub Actions)
+for API build/test/deploy.
+– Analyzed logs/metrics and contributed fixes to reduce error rates and improve service reliability for
+remote operations.
+Software Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions, India
+– Assisted backend feature development using Flask/Django and SQL; contributed to schema updates and
+simple ORM queries.
+– Added unit tests for API endpoints and supported bug triage; prepared concise technical notes and
+user-facing documentation.
+– Participated in Agile ceremonies and collaborated across a distributed team using Git and issue tracking
+on Jira.
+Projects
+Fleet Landscape (Personal, Flask/PostgreSQL)
+Designed a backend service for device inventory, package status, health/security monitoring, and automation
+triggers. Implemented REST endpoints, role-based access, and background jobs for telemetry ingestion and
+compliance checks. Deployed on Ubuntu using Docker and GitHub Actions.
+Telemetry & Compliance Microservice (Django REST)
+Built APIs to collect/aggregate metrics (uptime, package versions, security flags) and expose dashboards via
+JSON for a web client. Added PyTest suites, logging, and basic alerting hooks to integrate with ops workflows.
+Repository Manager Prototype (Flask)
+Implemented endpoints for package and repository management (list/update/sync), including admin routes,
+pagination, and audit logs; backed by PostgreSQL + SQLAlchemy.
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Blutic
+Share
+Show more options
+Data Integration Developer (Level 1) 	
+
+Technical Skills
+Databases: SQL Server, T-SQL, Relational Database Design
+ETL Tools: SSIS (Data Extraction, Transformation), SSRS (Reporting)
+Development Tools: Azure DevOps, Jira, Confluence
+Languages: SQL, Python (Basic), Java (Basic)
+Version Control: Git, GitHub
+Methodologies: Agile, Scrum
+Work Experience
+Engineer– Cloud & Infrastructure Management
+LTIMindtree– Developed and optimized SQL queries for data validation and troubleshooting– Assisted in creating ETL workflows and supported data migration activities– Collaborated with senior developers to implement data integration solutions– Maintained documentation in Confluence and tracked tasks in Jira– Participated in Agile ceremonies and daily stand-ups for project updates
+Software Development Intern
+Oct 2024– Present
+India
+Aug 2024– Oct 2024
+Sukalpa Tech Solutions– Built SQL scripts for data extraction and transformation in client projects– Created basic SSIS packages and SSRS reports under guidance of senior developers– Performed data validation and testing to ensure accuracy of ETL processes– Collaborated in Agile teams and contributed to documentation and knowledge sharing
+Projects
+India
+ETL Pipeline Development (SSIS & SQL Server)
+Personal Project– Designed and implemented ETL workflows using SSIS for data extraction and transformation– Developed SQL scripts for data cleansing and validation– Created SSRS reports for business insights and performance tracking
+Data Migration and Reporting System
+Academic Project– Migrated data between relational databases using SQL and SSIS packages– Generated analytical reports using SSRS and validated data integrity
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sunlightsol Technologies
+Share
+Show more options
+Remote Support Engineer
+Professional Summary
+Detail-oriented Remote Developer with a solid foundation in Computer Science principles and
+Object-Oriented Programming (OOP). Specialized in delivering full-cycle technology solutions
+including Back-End Web Development and scalable software architecture. Adept at troubleshooting, code
+optimization, and collaborating with distributed teams to deliver KPI-driven results in competitive global
+markets for 2026.
+Technical Skills
+Back-End Web Development: Java, Spring Boot, Node.js, Express.js, RESTful APIs, MVC Architecture
+Programming: Advanced Object-Oriented Programming (OOP), Data Structures, Python, JavaScript
+Full-Cycle Tech: Software Development Life Cycle (SDLC), App Development, BPO Tech Solutions
+Tools & Frameworks: Git, GitHub, Postman, Jira, Modern Dev Frameworks, Agile Methodology
+Database & Infrastructure: MySQL, PostgreSQL, Scalable Database Design, System Optimization
+Soft Skills: Remote Collaboration, Problem-Solving, Attention to Detail, KPI Tracking
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree India
+– Developed and maintained programming solutions using strict Object-Oriented principles to ensure software
+scalability and high-quality delivery.
+– Collaborated with global distributed teams to troubleshoot and optimize back-end code, ensuring high system
+availability.
+– Managed data flow via RESTful services, contributing to the delivery of full-cycle technology and support
+solutions.
+– Operated in an Agile development environment, utilizing Jira to track progress and deliver KPI-driven
+results.
+Software Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Built Back-End Web Development modules using Node.js, focusing on building scalable software for web
+applications.
+– Applied core Computer Science concepts to debug complex issues and enhance application performance.
+– Worked remotely with cross-functional teams to implement innovative digital solutions using modern tools.
+Projects
+E-Commerce Backend System (Java + Spring Boot) Personal Project
+Full-Cycle Software Development
+– Designed a scalable software solution for global market product management using Java and OOP principles.
+– Implemented secure RESTful APIs and optimized MySQL queries to ensure reliable and efficient digital care.
+– Ensured 100% project reliability through rigorous troubleshooting and code refinement.
+Task Management Web App (Node.js + Express) Academic Project
+Scalable Back-End Solution
+– Developed a programming solution using MVC architecture to support scalable customer-facing tasks.
+– Integrated Back-End Web Development best practices to handle concurrent user requests effectively.
+– Managed the full-cycle technology implementation from requirements gathering to final deployment.
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Crossing Hurdles
+Share
+Show more options
+Software Engineer I | Remote
+India · 3 days ago · Over 100 applicants
+   
+
+Languages: Go (Golang), Python, JavaScript (ES6+), SQL, TypeScript
+Backend: Gin, FastAPI, Microservices, RESTful APIs, Payout Logic
+Frontend: React.js, Next.js, Tailwind CSS, Redux
+Database & Tools: PostgreSQL, Redis, Docker, Git, GitHub Actions
+Concepts: Data Structures, Algorithms, Ranking Logic, Analytics Systems
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree India
+– Contribute production-ready backend code using Go and Python to maintain distributed infrastructure services.
+– Collaborate with senior engineers to build and scale microservices focused on system performance analytics.
+– Develop and maintain internal dashboard features using React and Next.js, improving data visualization
+efficiency.
+– Own small feature cycles from design to deployment, ensuring high reliability and performance through testing.
+Software Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Implemented backend modules in Python for processing ranking data and user analytics.
+– Assisted in building responsive frontend components for payout management tools using React.
+– Optimized API performance and applied best practices for code reliability in a fast-paced environment.
+Projects
+Microservices Payout & Ranking System
+Go, PostgreSQL, Docker
+– Architected a backend system in Go to handle high-frequency payout transactions and automated reporting.
+– Developed a ranking algorithm to categorize and prioritize data processing tasks based on user metrics.
+– Implemented comprehensive unit and integration tests to ensure 99% reliability in financial microservices.
+AI-Driven Analytics Dashboard
+React, Next.js, Python (FastAPI)
+– Built an end-to-end platform for real-time analytics using a Python-based FastAPI backend.
+– Designed and implemented dynamic UI components in Next.js to visualize AI-generated insights.
+– Integrated RESTful APIs with a PostgreSQL database to manage large-scale data platforms efficiently.
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CodeRound AI
+
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree India
+– Developed and maintained programming solutions using strict Object-Oriented principles to ensure software
+scalability and high-quality delivery.
+– Collaborated with global distributed teams to troubleshoot and optimize back-end code, ensuring high system
+availability.
+– Managed data flow via RESTful services, contributing to the delivery of full-cycle technology and support
+solutions.
+– Operated in an Agile development environment, utilizing Jira to track progress and deliver KPI-driven
+results.
+Software Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Built Back-End Web Development modules using Node.js, focusing on building scalable software for web
+applications.
+– Applied core Computer Science concepts to debug complex issues and enhance application performance.
+– Worked remotely with cross-functional teams to implement innovative digital solutions using modern tools.
+Projects
+E-Commerce Backend System (Java + Spring Boot) Personal Project
+Full-Cycle Software Development
+– Designed a scalable software solution for global market product management using Java and OOP principles.
+– Implemented secure RESTful APIs and optimized MySQL queries to ensure reliable and efficient digital care.
+– Ensured 100% project reliability through rigorous troubleshooting and code refinement.
+Task Management Web App (Node.js + Express) Academic Project
+Scalable Back-End Solution
+– Developed a programming solution using MVC architecture to support scalable customer-facing tasks.
+– Integrated Back-End Web Development best practices to handle concurrent user requests effectively.
+– Managed the full-cycle technology implementation from requirements gathering to final deployment.
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Microservices Engineer
+
+
+Technical Skills
+AI & LLM Orchestration: Model Context Protocol (MCP), LangChain, OpenAI API, Claude 3.5 Sonnet, RAG
+Full-Stack Engineering: Python (FastAPI/Django), JavaScript/TypeScript (Node.js, React), Java
+AI-First Tooling: Cursor, Windsurf, GitHub Copilot, Automated Unit Testing via LLMs
+Cloud & Infrastructure: AWS (Bedrock, Lambda, S3), Docker, Kubernetes, Distributed Architectures
+Database & Vector Stores: PostgreSQL (pgvector), Pinecone, MongoDB, Redis
+Methodologies: 24-Hour MVP Delivery, Autonomous Agent Design, Agile/Scrum
+Work Experience
+Lead Engineer – AI Automation & Infrastructure Oct 2024 – Present
+LTIMindtree India
+– Engineered an AI-driven monitoring system reducing manual debugging time by 85% using automated log analysis
+and LLM-based incident triaging.
+– Implemented MCP-based integrations allowing LLMs to interact with internal database schemas securely.
+– Transitioned legacy backend workflows into autonomous agents, increasing operational velocity by 10x.
+– Architected scalable RESTful APIs optimized for high-concurrency LLM agent interactions.
+Full-Stack AI Developer Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Deployed a rapid-response AI prototype for automated customer sentiment analysis within a 48-hour sprint.
+– Integrated LLM APIs into existing platforms to automate content moderation and metadata extraction.
+– Optimized Python backend modules to minimize latency in real-time AI-agent communication.
+Projects
+Autonomous AI Marketing Engine (MCP-Enabled)
+Technical Lead / Architect
+– Designed a system monitoring live trend data to autonomously generate and publish marketing content.
+– Built a 24-hour MVP connecting fragmented interactions into a vector database for real-time insights.
+– Developed a "Human-in-the-loop" dashboard using React and FastAPI to monitor AI-driven workflows.
+GenAI-Driven Operations Platform
+Full-Stack Lead
+– Replaced legacy Jira-based workflows with an AI-agent that prioritizes and executes tasks autonomously.
+– Deployed scalable infrastructure on AWS using Lambda and Bedrock for high-velocity distribution.
+– Achieved 10x reduction in operational costs by automating manual data entry via RAG pipelines.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+OmniReach
+Share
+Show more options
+Junior AI & Data Engineer
+Technical Skills
+Programming: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL (PostgreSQL/MySQL)
+Mathematics: Statistics (Probability, Regression, Correlation), Linear Algebra (Matrices)
+Data Engineering: ETL Processes, Data Cleaning, Feature Engineering, Jupyter Notebooks
+Machine Learning: Regression, Classification, Clustering, Basic Neural Networks
+Cloud & Tools: AWS Basics (S3, Lambda), REST APIs, Git, Docker
+Data Visualization: Power BI, Dashboards, Reports, Analytical Charting
+Work Experience
+Associate Engineer – Data & Infrastructure Analytics Oct 2024 – Present
+LTIMindtree India
+– Assisted in the collection and cleaning of high-volume infrastructure log data for analysis.
+– Wrote efficient Python (Pandas/NumPy) scripts for data transformation and feature engineering.
+– Supported the development of regression models to identify system anomalies and bottlenecks.
+– Developed automated dashboards to visualize data insights, helping optimize cloud resources.
+Software Development Intern (Data Focus) Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Assisted in building ETL pipelines to transform data between relational databases and REST APIs.
+– Applied statistical methods to analyze application usage patterns and documented data workflows.
+– Performed unit testing on data ingestion modules to ensure high data integrity.
+Projects
+Predictive Sales Analysis & Visualization
+Machine Learning Project
+– Developed a machine learning model using Scikit-learn to predict monthly sales trends.
+– Performed exploratory data analysis (EDA) to identify key correlations using Matplotlib.
+– Implemented data cleaning and transformation steps to handle missing values and outliers.
+Automated ETL Pipeline for Infrastructure Logs
+Data Engineering Project
+– Created a Python-based ETL pipeline that extracts raw log data and loads it into PostgreSQL.
+– Utilized SQL best practices for data normalization and efficient query performance.
+– Documented the entire data lifecycle and workflow for collegial review and scalability.
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Technical Skills
+Cloud Platforms: AWS (EC2, S3, Lambda, VPC), Microsoft Azure Basics, Google Cloud Platform
+Infrastructure as Code: Terraform, Ansible, CloudFormation, Shell Scripting (Bash)
+Containers & Orchestration: Docker, Kubernetes (K8s), Microservices Architecture
+Systems Administration: Linux/Unix (Ubuntu, CentOS), Windows Server, Active Directory
+Monitoring & Logging: Prometheus, Grafana,NewRelic
+Databases & Networking: SQL (MySQL, PostgreSQL), TCP/IP, DNS, Load Balancing, VPN
+Work Experience
+Technical Specialist – Cloud & Infrastructure Engineering Oct 2024 – Present
+LTIMindtree India
+– Managed and maintained complex cloud infrastructure, ensuring 99.9% uptime for mission-critical applications.
+– Automated server provisioning and configuration management using Terraform, reducing deployment time by
+50%.
+– Optimized cloud resource allocation, leading to a 20% reduction in monthly infrastructure costs through rightsizing
+and Reserved Instance planning.
+– Collaborated with DevOps teams to integrate security protocols and automated monitoring alerts within the
+infrastructure lifecycle.
+Software & Systems Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Assisted in the deployment of containerized applications using Docker, streamlining the development-to-production
+workflow.
+– Configured and troubleshot Linux-based virtual machines and performed regular system health audits.
+– Authored technical documentation for infrastructure changes and standard operating procedures (SOPs).
+Projects
+High-Availability Cloud Infrastructure Deployment
+Technical Lead
+– Architected a multi-region VPC environment on AWS using Terraform for consistent infrastructure as code.
+– Implemented an Auto Scaling Group and Application Load Balancer to handle traffic surges and ensure fault
+tolerance.
+– Integrated Prometheus and Grafana for real-time visualization of server health and network latency.
+Automated CI/CD Pipeline for Microservices
+DevOps Project
+– Built an automated pipeline using GitHub Actions to containerize services and deploy them to a Kubernetes
+cluster.
+– Configured centralized logging for the infrastructure to enable rapid troubleshooting of distributed system failures.
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Salesforce 
+
+
+Technical Skills
+Data Science & ML: Python, R, SQL, Neural Networks, Computer Vision, Image Processing, Text Analysis,
+Supervised & Unsupervised ML, Clustering, Decision Trees.
+Big Data & Tools: Hadoop, Hive, Spark, Distributed Computing, Data Architectures.
+Visualization: D3.js, ggplot2, Periscope, Business Objects, Facebook Insights, Google Analytics.
+Programming & Web: Java, C#, Node.js, React, JavaScript (Full-stack AI Deployment).
+Statistics: Regression Analysis, Probability Distributions, Statistical Testing, Data Mining.
+Methodologies: Agile, Research-driven Prototyping, Proof of Concept (PoC) Development.
+Work Experience
+Data Analyst / AI Solutions Engineer
+LTIMindtree
+Oct 2024– Present
+India– Developed Machine Learning algorithms and statistical techniques to identify system bottlenecks and propose
+data-driven solutions for effective decision making.– Designed experiments to merge and interrogate large-scale data to supply tailored intelligence reports to global
+stakeholders.– Tested data mining models to select the most efficient architectures for cloud infrastructure performance
+tracking.– Maintained clear and coherent communication to report results and tell compelling stories about customer
+interactions.
+Data Science Intern
+Sukalpa Tech Solutions
+Aug 2024– Oct 2024
+India– Conducted research to develop Prototypes and Proof of Concepts for automated data extraction using Python
+and SQL.– Utilized Big Data tools to manage and analyze data from 3rd party providers, assessing the effectiveness of
+gathering techniques.– Applied advanced statistical concepts to improve data collection methods and model reliability by 20%.
+Projects
+IoT-Driven Predictive Intelligence System
+AI & IoT Project
+Remote
+2024– Architected an IoT solution that transforms raw sensor data into intelligence by integrating Spark for distributed
+computing.– Designed and trained Artificial Neural Networks to predict system failures, using clustering and decision tree
+learning for higher accuracy.– Visualized real-world data advantages using D3.js, creating reports that tell compelling stories about asset
+performance.
+Big Data Sentiment & Image Processing Engine
+Data Mining Project
+Academic
+2023– Engineered a big data architecture using Hadoop and Hive to extract and manage intelligence from unstructured
+social datasets.– Implemented Computer Vision for image processing and used text analysis tools for sentiment interrogation.– Conducted rigorous statistical tests to assess the effectiveness of data sources from Google Analytics and Facebook
+Insights
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CareerUS Solutions logo
+CareerUS Solutions
+Share
+Show more options
+Cloud Engineer
+
+
+rofessional Summary
+Proactive Cloud Engineer with experience in designing, implementing, and managing scalable AWS/Azure
+infrastructure. Skilled in Infrastructure as Code (Terraform), containerization (Docker/Kubernetes), and
+CI/CD pipelines. Proven ability to optimize cloud performance and reliability while ensuring security best
+practices. Adept at troubleshooting complex system issues and collaborating in fully remote environments.
+Technical Skills
+Cloud Platforms: AWS (EC2, S3, RDS, Lambda, VPC, IAM), Microsoft Azure, Google Cloud.
+Infrastructure as Code: Terraform, AWS CloudFormation, Ansible.
+Containers & Orchestration: Docker, Kubernetes (EKS/AKS), Helm.
+DevOps & CI/CD: Jenkins, GitLab CI, GitHub Actions, Maven, Git.
+OS & Scripting: Linux/Unix (Ubuntu, CentOS), Bash, Python, PowerShell.
+Networking & Security: VPC Peering, Load Balancers (ELB/ALB), DNS, SSL/TLS, VPN.
+Monitoring: Prometheus, Grafana, AWS CloudWatch, ELK Stack.
+Work Experience
+Cloud Engineer – Infrastructure Management Oct 2024 – Present
+LTIMindtree India
+– Designed and deployed scalable cloud infrastructure on AWS to support high-availability applications.
+– Implemented Infrastructure as Code (IaC) using Terraform to automate the provisioning and configuration of
+cloud resources.
+– Monitored cloud environments using CloudWatch, optimizing performance and reducing operational costs by
+15%.
+– Collaborated with security teams to implement access controls (IAM) and data protection best practices in cloud
+environments.
+Cloud & DevOps Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Assisted in the containerization of backend modules using Docker and supported deployments via CI/CD
+pipelines.
+– Automated server maintenance tasks using Bash and Python scripts in a Linux-based environment.
+– Troubleshot cloud-related deployment issues and maintained documentation for architecture and security
+standards.
+Projects
+AWS Multi-Tier Infrastructure Automation Remote
+Cloud Project 2024
+– Architected a scalable 3-tier web architecture on AWS using Terraform for automated provisioning of VPC,
+Subnets, and EC2 instances.
+– Integrated an Application Load Balancer (ALB) and Auto Scaling Groups (ASG) to ensure high availability and
+performance.
+– Implemented security groups and NACLs to restrict traffic and ensure cloud environment security.
+Scalable Kubernetes Deployment Pipeline Academic
+DevOps Project 2023
+– Developed a CI/CD pipeline using GitHub Actions to build and push Docker images to Amazon ECR.
+– Deployed containerized applications to a Kubernetes (EKS) cluster, managing services and ingress for external
+access.
+– Utilized Prometheus and Grafana for real-time monitoring of cluster health and resource utilization.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+REETECH logo
+REETECH
+Share
+Show more options
+Software Engineer
+
+Professional Summary
+Entrepreneurial Founding Software Engineer with a track record of building early-stage products and MVPs
+from the ground up. Specialized in full-stack application development with a focus on SaaS scalability and
+lean architecture. Currently developing a proprietary tech solution and seeking a partnership with REETECH
+to accelerate market entry. Driven by business curiosity, user-centric design, and the ambition to scale innovative
+ideas into ventures.
+Technical Skills
+Product Engineering: Rapid Prototyping, MVP Development, SaaS Architecture, API Design.
+Full-Stack Development: Node.js, React, Java (Spring Boot), Python, PostgreSQL, NoSQL.
+Entrepreneurship: Lean Startup Methodology, Customer Discovery, Product-Market Fit.
+Infrastructure: AWS, Docker, Git, CI/CD, Agile/Scrum Methodologies.
+Business Operations: Technical Pitching, Fundraising Strategy, Revenue Modeling, GTM Strategy.
+UI/UX & Tools: Figma (Prototyping), Postman, Jira, Trello, Product Analytics.
+Work Experience
+Founding Product Engineer (Incubation Focus) Oct 2024 – Present
+LTIMindtree India
+– Led the technical development of side-projects and internal modules, focusing on lean architecture and rapid
+feature iteration.
+– Bridged the gap between technical engineering and business requirements to ensure scalable and market-ready
+application deployment.
+– Collaborated in high-uncertainty environments to troubleshoot complex system issues and implement long-term
+product solutions.
+– Identified market opportunities within enterprise workflows to propose and pilot new software features.
+Software Development Intern (Startup MVP) Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Architected and deployed the initial Minimum Viable Product (MVP) for a backend service, reducing initial
+development time by 20%.
+– Applied clean coding practices and OOP principles to build maintainable and venture-ready software modules.
+– Collaborated directly with stakeholders to align technical sprints with business goals and early adopter feedback.
+Startup Projects & Ventures
+Project Alpha: SaaS Automation Platform Proprietary
+Lead Founder & Developer 2024 – Present
+– Independently building an early-stage SaaS product designed to automate workflow inefficiencies for
+small-to-medium enterprises.
+– Developed the full-stack architecture using React and Node.js, currently in the private beta phase with 5+ early
+testers.
+– Drafted a comprehensive business model and revenue-sharing framework for potential seed funding or co-founding
+partnership.
+Market-Driven Enterprise Dashboard Academic
+Founding Engineer 2023
+– Designed and pitched a task-management application solving specific visibility issues in remote engineering teams.
+– Integrated user authentication and real-time data flow, focusing on User Experience (UX) and customer
+discovery results.
+– Conducted a feasibility study and market analysis as part of the initial product development lifecycle.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+QuantumLoopAi
+Share
+Show more options
+Prompt & AI/ML Engineer – Chatbot Voice Agent LLM & RAG
+
+Professional Summary
+Entrepreneurial Founding Software Engineer with a track record of building early-stage products and MVPs
+from the ground up. Specialized in full-stack application development with a focus on SaaS scalability and
+lean architecture. Currently developing a proprietary tech solution and seeking a partnership with REETECH
+to accelerate market entry. Driven by business curiosity, user-centric design, and the ambition to scale innovative
+ideas into ventures.
+Technical Skills
+Product Engineering: Rapid Prototyping, MVP Development, SaaS Architecture, API Design.
+Full-Stack Development: Node.js, React, Java (Spring Boot), Python, PostgreSQL, NoSQL.
+Entrepreneurship: Lean Startup Methodology, Customer Discovery, Product-Market Fit.
+Infrastructure: AWS, Docker, Git, CI/CD, Agile/Scrum Methodologies.
+Business Operations: Technical Pitching, Fundraising Strategy, Revenue Modeling, GTM Strategy.
+UI/UX & Tools: Figma (Prototyping), Postman, Jira, Trello, Product Analytics.
+Work Experience
+Engineer - Cloud Infra Management Oct 2024 – Present
+LTIMindtree India
+– Led the technical development of side-projects and internal modules, focusing on lean architecture and rapid
+feature iteration.
+– Bridged the gap between technical engineering and business requirements to ensure scalable and market-ready
+application deployment.
+– Collaborated in high-uncertainty environments to troubleshoot complex system issues and implement long-term
+product solutions.
+– Identified market opportunities within enterprise workflows to propose and pilot new software features.
+Software Development Intern (Startup MVP) Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Architected and deployed the initial Minimum Viable Product (MVP) for a backend service, reducing initial
+development time by 20%.
+– Applied clean coding practices and OOP principles to build maintainable and venture-ready software modules.
+– Collaborated directly with stakeholders to align technical sprints with business goals and early adopter feedback.
+Startup Projects & Ventures
+Project Alpha: SaaS Automation Platform Proprietary
+Lead Founder & Developer 2024 – Present
+– Independently building an early-stage SaaS product designed to automate workflow inefficiencies for
+small-to-medium enterprises.
+– Developed the full-stack architecture using React and Node.js, currently in the private beta phase with 5+ early
+testers.
+– Drafted a comprehensive business model and revenue-sharing framework for potential seed funding or co-founding
+partnership.
+Market-Driven Enterprise Dashboard Academic
+Founding Engineer 2023
+– Designed and pitched a task-management application solving specific visibility issues in remote engineering teams.
+– Integrated user authentication and real-time data flow, focusing on User Experience (UX) and customer
+discovery results.
+– Conducted a feasibility study and market analysis as part of the initial product development lifecycle.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	
+Cloud Operations Support Engineer
+Insight Global · India (Remote)
+
+
+Cloud Operations Support Engineer with 2+ years of experience in L1/L2 infrastructure support, system
+administration, and 24/7 incident management. Proven ability to monitor global cloud environments
+(AWS/Azure), resolve complex configuration issues, and maintain strict SLA adherence. Experienced in the
+Follow-the-Sun operational model, user provisioning, and automated patching.
+Technical Skills
+Cloud Platforms: AWS (EC2, S3, CloudWatch, IAM), Azure Fundamentals, GCP
+Operations: Infrastructure Monitoring, Incident Triage, Patch Management, Backups
+Operating Systems: Linux (Ubuntu/CentOS Administration), Windows Server
+ITSM Tools: Jira, ServiceNow, Zendesk, Postman
+Scripting/Automation: Bash, Python (Ops Automation), PowerShell Basics
+Methodologies: Follow-the-Sun Support, SLA Management, ITIL Framework
+Work Experience
+Engineer – Cloud & Infrastructure Management Oct 2024 – Present
+LTIMindtree India
+– Provide L1/L2 support for global cloud infrastructure, monitoring real-time health metrics and responding to
+system alerts.
+– Manage incident lifecycles via Jira, performing root cause analysis (RCA) and troubleshooting configuration/access
+issues.
+– Conduct routine system administration tasks including user provisioning, IAM role management, and scheduled
+security patching.
+– Facilitate seamless shift handoffs between global regions (India/US) to ensure 24/7 continuous operational coverage.
+– Collaborate with L3 engineering teams to escalate unresolved complex infrastructure bottlenecks.
+Technical Support Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Maintained server uptime by monitoring Linux logs and automating health-check reports using Python scripts.
+– Assisted in the deployment of cloud-based internal tools and validated connectivity via RESTful APIs.
+– Resolved entry-level technical tickets related to network connectivity and software configurations.
+Cloud & Operations Projects
+Automated Cloud Infrastructure Monitoring System
+AWS, CloudWatch, Python
+– Configured AWS CloudWatch dashboards to monitor EC2 CPU/Memory metrics and set up SNS alerts for instant
+incident notification.
+– Developed a Python script to automate the backup of S3 buckets, ensuring data redundancy and operational
+resilience.
+– Created documentation for L1 troubleshooting steps, reducing the resolution time for common server alerts by 30%.
+Enterprise Access & User Provisioning Workflow
+Linux, IAM, Bash
+– Designed a secure onboarding workflow utilizing IAM policies and Bash scripts to automate bulk user creation in
+Linux environments.
+– Implemented audit logging to track user access changes, ensuring compliance with organizational security
+standards.
+– Optimized system patching schedules by scripting automated update triggers for non-critical development
+environments.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+About the job
+About MapleRecord
+
+
+Professional Summary
+Outcome-oriented GenAI Engineer with experience building and operationalizing end-to-end AI features.
+Specialized in RAG architectures, automated PII/PHI redaction, and intelligent document classification.
+Proven ability to move from ambiguous problem statements to shipped production code. Passionate about
+building secure, auditable AI pipelines for regulated industries and public sector compliance.
+Technical Skills
+GenAI & LLMs: OpenAI API, Anthropic, LangChain, LlamaIndex, Prompt Engineering, Guardrails
+Vector Databases: Pinecone, Weaviate, Milvus, ChromaDB
+AI Operations: RAG Evaluation (Ragas), Model Monitoring, Pydantic, Token Optimization
+Data & NLP: PII/PHI Redaction, Named Entity Recognition (NER), Metadata Extraction, SpaCy
+Backend: Python (FastAPI, Flask), Node.js, PostgreSQL, RESTful APIs
+Tools: Docker, Git, GitHub Actions, Jira, Vector Embeddings
+Work Experience
+Engineer - Cloud & Infra Management Oct 2024 – Present
+LTIMindtree India
+– Design and deploy production-ready LLM services using LangChain for automated document triage and
+classification.
+– Implemented a RAG (Retrieval-Augmented Generation) pipeline to enable context-aware search across 10k+
+enterprise records, reducing search latency by 40%.
+– Implemented automated PII detection and redaction modules to secure sensitive data within cloud-hosted
+environments.
+– Optimized AI system costs by implementing prompt caching and selecting cost-effective embedding models without
+sacrificing accuracy.
+– Collaborated with product teams to translate ambiguous compliance requirements into auditable AI workflows.
+AI Development Intern Aug 2024 – Oct 2024
+Sukalpa Tech Solutions India
+– Built a prototype for intelligent metadata extraction from unstructured PDF records using GPT-4 and Pydantic for
+structured output.
+– Integrated vector databases to improve the retrieval accuracy of internal knowledge bases.
+– Performed evaluation and benchmarking of different LLMs to identify the best fit for summarization tasks.
+GenAI Projects
+AI-Powered FOI/ATIP Redaction & Triage System
+Python, OpenAI, SpaCy
+– Built an end-to-end pipeline for public sector record processing that automatically classifies incoming requests and
+flags sensitive data.
+– Implemented a multi-stage redaction engine that identifies PII, PHI, and financial data with 98% recall using a
+hybrid approach of LLMs and Regex.
+– Designed a ”Human-in-the-loop” interface for records managers to audit AI-generated redaction suggestions.
+Agentic Records Governance Framework
+LlamaIndex, Pinecone, FastAPI
+– Developed an autonomous AI agent capable of recommending retention and disposition schedules based on
+municipal regulatory documents.
+– Engineered a context-aware search system using hybrid search (vector + keyword) to handle complex legal
+terminology in records.
+– Implemented guardrails to ensure AI responses remain grounded in the provided document context, eliminating
+hallucinations
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
